@@ -2,7 +2,7 @@
 
 The Nobel Prize is one of the most prestigious international awards presented since 1901 across disciplines like Physics, Chemistry, Literature, Medicine, Peace, and Economics. In this project, we dive into over a century of Nobel data to explore trends in gender, nationality, category, and time.
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 **Source:** Nobel Prize API  
 **File:** `nobel.csv`  
@@ -31,7 +31,7 @@ The Nobel Prize is one of the most prestigious international awards presented si
 
 ---
 
-## 🎯 Key Questions Answered
+##  Key Questions Answered
 
 ### ✅ What is the most commonly awarded gender and birth country?
 
