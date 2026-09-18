@@ -33,21 +33,21 @@ The Nobel Prize is one of the most prestigious international awards presented si
 
 ##  Key Questions Answered
 
-### ✅ What is the most commonly awarded gender and birth country?
+###  What is the most commonly awarded gender and birth country?
 
 - **Gender:** Male  
 - **Birth Country:** United States of America
 
 ---
 
-### 📈 Which decade had the highest ratio of US-born Nobel Prize winners?
+###  Which decade had the highest ratio of US-born Nobel Prize winners?
 
 - Decade with highest US-born winner ratio was **2000s**  
 - This trend was visualized using a **line plot** showing the rise in American dominance over time.
 
 ---
 
-### 👩‍🔬 Which decade and Nobel category had the highest proportion of female laureates?
+###  Which decade and Nobel category had the highest proportion of female laureates?
 
 - **Decade:** 2000s  
 - **Category:** **Peace** had the highest share of female laureates
@@ -56,7 +56,7 @@ Visualized using a **multi-line plot** showing female winner proportions over ti
 
 ---
 
-### 🥇 Who was the first woman to receive the Nobel Prize?
+###  Who was the first woman to receive the Nobel Prize?
 
 - **Marie Curie, née Sklodowska**  
 - **Category:** Physics  
