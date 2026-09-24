@@ -85,7 +85,7 @@ Visualized using a **multi-line plot** showing female winner proportions over ti
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 - Performed groupby and aggregation using `pandas`
 - Worked with time-based data (decade grouping)
