@@ -64,7 +64,7 @@ Visualized using a **multi-line plot** showing female winner proportions over ti
 
 ---
 
-### 🔁 Which individuals or organizations have won more than one Nobel Prize?
+###  Which individuals or organizations have won more than one Nobel Prize?
 
 - **Marie Curie, née Sklodowska** – Physics & Chemistry  
 - **John Bardeen** – Twice in Physics  
@@ -75,7 +75,7 @@ Visualized using a **multi-line plot** showing female winner proportions over ti
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 - US-born winner trends by decade
 - Female representation by decade and category
